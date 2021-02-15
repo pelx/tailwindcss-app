@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "tailwind-app"
+  "defaultProject": "tailwind-app",
+  "cli": {
+    "analytics": false
+  }
 }
